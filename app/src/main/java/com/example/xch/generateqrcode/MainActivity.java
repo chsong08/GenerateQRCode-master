@@ -33,6 +33,9 @@ import android.widget.Toast;
 import java.io.File;
 import java.io.IOException;
 
+/**
+ *
+ */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private Button btn_generate;
     private EditText et_content;
